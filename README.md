@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Methodology
 1. **Data Preprocessing:** Resize, normalize, and augment images for better model training.  
@@ -13,3 +14,6 @@
 - Add classification for more animal types.  
 - Deploy a mobile or web app for real-time prediction.  
 - Integrate with IoT devices for automatic livestock monitoring.
+=======
+# SIH-Animal-Classification
+>>>>>>> 44ff16023be8868d50b4efd75e69b2afd3ce906d
